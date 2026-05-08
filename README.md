@@ -41,8 +41,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlomederos&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Carlo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlomederos&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlomederos&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Carlo's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlomederos&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=carlomederos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
